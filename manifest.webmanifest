@@ -1,0 +1,13 @@
+{
+  "name": "Pulso Neon — Juego de reflejos",
+  "short_name": "Pulso Neon",
+  "description": "Un juego rápido de reflejos y puntuación.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0b19",
+  "theme_color": "#101024",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
